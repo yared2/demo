@@ -1,6 +1,6 @@
 #first title
 
-learn git and git hub from zero to master
+learn git and git for worst
 
 three
 
